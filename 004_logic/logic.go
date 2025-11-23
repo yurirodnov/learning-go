@@ -8,7 +8,7 @@ func main(){
 
 	fmt.Println(7 >= 4 || 5 == 9)	// true
 
-	fmt.Println(!(7 >= 4) && 5 == 5) // false	
+	fmt.Println(!(7 >= 4) && 6 == 5) // false	
 
 	fmt.Println(!(11 > 3 || 7 != 4))	// false
 
